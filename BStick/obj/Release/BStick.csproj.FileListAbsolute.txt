@@ -1,0 +1,9 @@
+H:\Programs\CSharp\BStick\BStick\bin\Release\BStick.dll
+H:\Programs\CSharp\BStick\BStick\bin\Release\BStick.pdb
+H:\Programs\CSharp\BStick\BStick\bin\Release\BlinkStick.Hid.dll
+H:\Programs\CSharp\BStick\BStick\bin\Release\LibUsbDotNet.dll
+H:\Programs\CSharp\BStick\BStick\bin\Release\HidLibrary.dll
+H:\Programs\CSharp\BStick\BStick\obj\Release\BStick.dll
+H:\Programs\CSharp\BStick\BStick\obj\Release\BStick.pdb
+H:\Programs\CSharp\BStick\BStick\bin\Release\BStick.cs
+H:\Programs\CSharp\BStick\BStick\obj\Release\BStick.csprojResolveAssemblyReference.cache

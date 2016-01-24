@@ -1,0 +1,16 @@
+c:\users\athomsfere\documents\visual studio 2012\Projects\BStick\BStick\bin\Debug\BStick.dll
+c:\users\athomsfere\documents\visual studio 2012\Projects\BStick\BStick\bin\Debug\BStick.pdb
+c:\users\athomsfere\documents\visual studio 2012\Projects\BStick\BStick\bin\Debug\BlinkStick.Hid.dll
+c:\users\athomsfere\documents\visual studio 2012\Projects\BStick\BStick\bin\Debug\LibUsbDotNet.dll
+c:\users\athomsfere\documents\visual studio 2012\Projects\BStick\BStick\bin\Debug\HidLibrary.dll
+c:\users\athomsfere\documents\visual studio 2012\Projects\BStick\BStick\obj\Debug\BStick.dll
+c:\users\athomsfere\documents\visual studio 2012\Projects\BStick\BStick\obj\Debug\BStick.pdb
+H:\Programs\CSharp\BStick\BStick\bin\Debug\BStick.dll
+H:\Programs\CSharp\BStick\BStick\bin\Debug\BStick.pdb
+H:\Programs\CSharp\BStick\BStick\bin\Debug\BlinkStick.Hid.dll
+H:\Programs\CSharp\BStick\BStick\bin\Debug\LibUsbDotNet.dll
+H:\Programs\CSharp\BStick\BStick\bin\Debug\HidLibrary.dll
+H:\Programs\CSharp\BStick\BStick\obj\Debug\BStick.dll
+H:\Programs\CSharp\BStick\BStick\obj\Debug\BStick.pdb
+H:\Programs\CSharp\BStick\BStick\bin\Debug\BStick.cs
+H:\Programs\CSharp\BStick\BStick\obj\Debug\BStick.csprojResolveAssemblyReference.cache
